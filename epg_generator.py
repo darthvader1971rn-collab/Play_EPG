@@ -512,6 +512,7 @@ def process_channel(ch, now, headers, api_base, mapowanie):
     return channel_elem, programmes
 
 def main():
+    # Tworzenie katalogu releases, jeśli nie istnieje
     os.makedirs('releases', exist_ok=True)
     
     xml_header = '<?xml version="1.0" encoding="utf-8"?>\n<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
@@ -522,7 +523,7 @@ def main():
     })
     
     resp_ch = requests.get(API_BASE + 'products/lives', headers=HEADERS, params={'platform': 'BROWSER', 'tenant': 'TV_POINTS'})
-    channels = [c for c in resp_ch.json() if c.get('liveType'] == 'LIVE']
+    channels = [c for c in resp_ch.json() if c.get('liveType') == 'LIVE']
     print(f"Pobrano {len(channels)} kanałów. Uruchamiam wielowątkowe pobieranie EPG...")
 
     now = datetime.datetime.now()

@@ -1,0 +1,1052 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="PlayNOW EPG GitHub Actions">
+  <channel id="TVP1">
+    <display-name>TVP1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/8499963/images/952146681?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP2">
+    <display-name>TVP2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/8499964/images/952146683?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN">
+    <display-name>TVN</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/8529876/images/947513401?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN 7 HD">
+    <display-name>TVN 7 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183306/images/896415005?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat">
+    <display-name>Polsat</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/9817820/images/819859960?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV4">
+    <display-name>TV4</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/9979708/images/913218406?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="KINO PLAY">
+    <display-name>KINO PLAY</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27128851/images/1033972888?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV Puls">
+    <display-name>TV Puls</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/7033022/images/908106456?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Warszawa">
+    <display-name>TVP3 Warszawa</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/8499965/images/952041085?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TTV HD">
+    <display-name>TTV HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183305/images/896415007?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="METRO HD">
+    <display-name>METRO HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183300/images/896415013?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Puls 2">
+    <display-name>Puls 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/7033023/images/908106454?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV 6">
+    <display-name>TV 6</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183324/images/913218408?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Fokus TV">
+    <display-name>Fokus TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20286725/images/895753696?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nowa TV">
+    <display-name>Nowa TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20287484/images/895763824?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Super POLSAT">
+    <display-name>Super POLSAT</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183322/images/896414997?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="WP HD">
+    <display-name>WP HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/1337234/images/843501125?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="ZOOM">
+    <display-name>ZOOM</display-name>
+    <icon src="https://r.playcdn.tv/file/play/playtv/upload/live/2380751/images/1122764596"/>
+  </channel>
+  <channel id="Antena HD">
+    <display-name>Antena HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984847/images/971481027?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV Trwam">
+    <display-name>TV Trwam</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23940448/images/930307516?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FX HD">
+    <display-name>FX HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3239191/images/926573285?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FX Comedy HD">
+    <display-name>FX Comedy HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3294207/images/926573289?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name>Paramount Network</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38023/images/284054679?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Ale Kino+">
+    <display-name>Ale Kino+</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13532285/images/833526679?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name>Comedy Central</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/22/images/908106479?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Comedy Central Extra">
+    <display-name>Polsat Comedy Central Extra</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2919191/images/908106477?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="AMC">
+    <display-name>AMC</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2/images/812596795?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Warner TV">
+    <display-name>Warner TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/36017/images/1023143723?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN Fabuła HD">
+    <display-name>TVN Fabuła HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183307/images/896415003?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Viasat Epic Drama">
+    <display-name>Viasat Epic Drama</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2060267/images/1122179341?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Stopklatka TV">
+    <display-name>Stopklatka TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/33705073/images/1076912548?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="AXN">
+    <display-name>AXN</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/33/images/940247207?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="AXN Black">
+    <display-name>AXN Black</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/9234615/images/779773525?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name>AXN Spin</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/24942507/images/940247203?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="AXN White">
+    <display-name>AXN White</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/9234614/images/798184345?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ One">
+    <display-name>FILMBOX+ One</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23942342/images/932543845?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT 2">
+    <display-name>POLSAT 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20288608/images/896415044?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Film">
+    <display-name>POLSAT Film</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20288611/images/896415038?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Seriale">
+    <display-name>POLSAT Seriale</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183316/images/896415057?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Kino Polska">
+    <display-name>Kino Polska</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/28/images/962917569?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Film 2">
+    <display-name>Polsat Film 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39031481/images/1078576534?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Filmax">
+    <display-name>Filmax</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39345885/images/1082536236?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Sundance TV">
+    <display-name>Sundance TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16204510/images/859175349?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC First">
+    <display-name>BBC First</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38019/images/908106501?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="13 Ulica">
+    <display-name>13 Ulica</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/4387166/images/908106483?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="SciFi">
+    <display-name>SciFi</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/33010477/images/1151276461?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Short TV">
+    <display-name>Short TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26750226/images/1151847601?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TeenNick">
+    <display-name>TeenNick</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/12231642/images/961447358?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Romance.TV">
+    <display-name>Romance.TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/24/images/874819430?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CTV Dla Ciebie ">
+    <display-name>CTV Dla Ciebie </display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/36229579/images/1042685237?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="NOVELAS+">
+    <display-name>NOVELAS+</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13544131/images/1023143823?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Bollywood">
+    <display-name>Bollywood</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30232208/images/1077243383?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVC Super">
+    <display-name>TVC Super</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39038320/images/1078576536?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP Seriale">
+    <display-name>TVP Seriale</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25517405/images/946932382?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Kabaret TV">
+    <display-name>Kabaret TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25980529/images/951366634?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/HBO_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HBO2 ">
+    <display-name>HBO2 </display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/HBO2_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HBO3">
+    <display-name>HBO3</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/HBO3_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name>Cinemax HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/19195238/images/1050844145?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Cinemax2 HD">
+    <display-name>Cinemax2 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/19195239/images/1050844143?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="SkyShowtime 1">
+    <display-name>SkyShowtime 1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/28841472/images/975741950?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="SkyShowtime 2">
+    <display-name>SkyShowtime 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/28842056/images/975745453?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Premium ">
+    <display-name>CANAL+ Premium </display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171253/images/838982886?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ 1 HD">
+    <display-name>CANAL+ 1 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171259/images/838982874?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Film HD">
+    <display-name>CANAL+ Film HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171260/images/838982872?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Seriale HD">
+    <display-name>CANAL+ Seriale HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171261/images/838982870?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ 360">
+    <display-name>CANAL+ 360</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171262/images/981832384?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Dokument HD">
+    <display-name>CANAL+ Dokument HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171258/images/838982876?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ Hits">
+    <display-name>FILMBOX+ Hits</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23917203/images/1127344823?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ Emotion">
+    <display-name>FILMBOX+ Emotion</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23917217/images/1127344824?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ Action">
+    <display-name>FILMBOX+ Action</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23917234/images/1127344825?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ Comedy">
+    <display-name>FILMBOX+ Comedy</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23917248/images/1127272172?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FILMBOX+ Festival">
+    <display-name>FILMBOX+ Festival</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23917315/images/1127272126?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN24">
+    <display-name>TVN24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/7208754/images/1032763213?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN24 BIS">
+    <display-name>TVN24 BIS</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/7208755/images/1032763210?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT News">
+    <display-name>POLSAT News</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183312/images/896415049?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT News 2">
+    <display-name>POLSAT News 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183313/images/896415051?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Wydarzenia24">
+    <display-name>Wydarzenia24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183323/images/896414995?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Euronews PL">
+    <display-name>Euronews PL</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/35600060/images/1035545579?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP Info">
+    <display-name>TVP Info</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/21228820/images/1023144162?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="wPolsce24">
+    <display-name>wPolsce24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23030282/images/981472197?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV Republika HD">
+    <display-name>TV Republika HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/21878540/images/910772983?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Biznes24">
+    <display-name>Biznes24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/18188594/images/876355256?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="News24">
+    <display-name>News24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14885210/images/872587021?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat News Polityka">
+    <display-name>Polsat News Polityka</display-name>
+    <icon src="https://r.playcdn.tv/file/play/playtv/upload/live/24725756/images/937177205"/>
+  </channel>
+  <channel id="Newsmax Polska">
+    <display-name>Newsmax Polska</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/43580848/images/1134514731?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVS">
+    <display-name>TVS</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13352686/images/831494259?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVC HD">
+    <display-name>TVC HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984842/images/970725780?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polonia1">
+    <display-name>Polonia1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984841/images/1023144165?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Tele5">
+    <display-name>Tele5</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984840/images/928354623?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Rodzina">
+    <display-name>POLSAT Rodzina</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183315/images/896415055?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TBN Polska">
+    <display-name>TBN Polska</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/18187556/images/1023144184?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="DayStar HD">
+    <display-name>DayStar HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/36187109/images/1041995388?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Białystok">
+    <display-name>TVP3 Białystok</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25985264/images/951848676?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Bydgoszcz">
+    <display-name>TVP3 Bydgoszcz</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25988999/images/951848677?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Gdańsk">
+    <display-name>TVP3 Gdańsk</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25991928/images/951848682?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Gorzów Wielkopolski">
+    <display-name>TVP3 Gorzów Wielkopolski</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25994762/images/951848686?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Katowice">
+    <display-name>TVP3 Katowice</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/25997882/images/951848688?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Kielce">
+    <display-name>TVP3 Kielce</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26000579/images/951848694?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Kraków">
+    <display-name>TVP3 Kraków</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26002254/images/951848696?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Lublin">
+    <display-name>TVP3 Lublin</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26004026/images/951848698?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Łódź">
+    <display-name>TVP3 Łódź</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26005337/images/951848700?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Olsztyn">
+    <display-name>TVP3 Olsztyn</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26006568/images/951848702?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Opole">
+    <display-name>TVP3 Opole</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26007844/images/951848704?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Poznań">
+    <display-name>TVP3 Poznań</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26009065/images/951848692?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Rzeszów">
+    <display-name>TVP3 Rzeszów</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26010495/images/951848690?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Szczecin">
+    <display-name>TVP3 Szczecin</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26012066/images/951848684?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP3 Wrocław">
+    <display-name>TVP3 Wrocław</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26013653/images/951848680?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="WTK">
+    <display-name>WTK</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27889886/images/967695276?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVT">
+    <display-name>TVT</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30394070/images/989580606?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="ECHO24">
+    <display-name>ECHO24</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/32639263/images/1012273315?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="DlaCiebie. TV">
+    <display-name>DlaCiebie. TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/33423471/images/1018108214?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TV Bolesławiec">
+    <display-name>TV Bolesławiec</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/34138570/images/1023144230?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Lubuska TV Horyzont">
+    <display-name>Lubuska TV Horyzont</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/34380461/images/1024584123?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN Style HD">
+    <display-name>TVN Style HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183308/images/920380115?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name>HGTV HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183298/images/896418780?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Cafe">
+    <display-name>POLSAT Cafe</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20288609/images/896415042?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TLC HD">
+    <display-name>TLC HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183303/images/896415011?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Discovery Life HD">
+    <display-name>Discovery Life HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183291/images/1023144205?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ KUCHNIA">
+    <display-name>CANAL+ KUCHNIA</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13538937/images/833526681?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ DOMO HD">
+    <display-name>CANAL+ DOMO HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13538155/images/833526683?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name>BBC Lifestyle</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38020/images/120569828?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Food Network HD ">
+    <display-name>Food Network HD </display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183297/images/896415017?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Stargaze TV">
+    <display-name>Stargaze TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/37867243/images/1061622926?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name>E! Entertainment</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/33009832/images/1029135652?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="MTV Polska HD">
+    <display-name>MTV Polska HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11/images/1025055400?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Show TV">
+    <display-name>Show TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13076456/images/1048824819?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="STUDIOMED TV">
+    <display-name>STUDIOMED TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/15660407/images/1028917029?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HOME TV HD">
+    <display-name>HOME TV HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984843/images/819430263?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Active Family">
+    <display-name>Active Family</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11976304/images/819430293?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVN Turbo HD">
+    <display-name>TVN Turbo HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183309/images/1025055454?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Play">
+    <display-name>POLSAT Play</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183314/images/896415053?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC Brit">
+    <display-name>BBC Brit</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38016/images/809710249?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Adventure">
+    <display-name>Adventure</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30231493/images/1028896604?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="National Geographic">
+    <display-name>National Geographic</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3239192/images/1025055457?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name>Nat Geo Wild</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3289737/images/1028903477?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name>Nat Geo People HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3293837/images/1025055460?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Crime+Investigation Polsat">
+    <display-name>Crime+Investigation Polsat</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/5511368/images/1025055463?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name>Discovery Channel HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183289/images/1025055466?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name>Discovery Science HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183292/images/896415021?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="DTX HD">
+    <display-name>DTX HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183294/images/896415108?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name>Animal Planet HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183288/images/1025055469?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="HISTORY">
+    <display-name>HISTORY</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/9/images/1025055487?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="H2">
+    <display-name>H2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/8/images/1028899355?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Viasat Explore">
+    <display-name>Polsat Viasat Explore</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2060266/images/1122179337?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Planete+">
+    <display-name>Planete+</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13537091/images/833526685?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Viasat History">
+    <display-name>Polsat Viasat History</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38024/images/1122179338?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Viasat Nature">
+    <display-name>Polsat Viasat Nature</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2060265/images/1122179339?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38018/images/1029135642?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Discovery Historia">
+    <display-name>Discovery Historia</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183290/images/1025055491?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name>Travel Channel HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183304/images/896415009?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Viasat True Crime">
+    <display-name>Viasat True Crime</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27353030/images/1122179340?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Doku">
+    <display-name>POLSAT Doku</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20288610/images/896415040?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="ID HD">
+    <display-name>ID HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183299/images/896415015?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Reality">
+    <display-name>Polsat Reality</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39364549/images/1079195279?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="DocuBox">
+    <display-name>DocuBox</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23941564/images/1025055472?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat X">
+    <display-name>Polsat X</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39031482/images/1078576532?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name>Eurosport 1 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183295/images/897407384?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eurosport 2 HD ">
+    <display-name>Eurosport 2 HD </display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183296/images/1078576581?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eurosport 3">
+    <display-name>Eurosport 3</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39319968/images/1078576570?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eurosport 4">
+    <display-name>Eurosport 4</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41612298/images/1107897779?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport 1">
+    <display-name>Polsat Sport 1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183318/images/957927030?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport 2">
+    <display-name>Polsat Sport 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183319/images/957927032?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport 3">
+    <display-name>Polsat Sport 3</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183321/images/957927042?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Sport Fight">
+    <display-name>POLSAT Sport Fight</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183320/images/896415063?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Sport 5">
+    <display-name>CANAL+ Sport 5</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13544730/images/845882158?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Gametoon">
+    <display-name>Gametoon</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11063641/images/1025055475?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Games">
+    <display-name>POLSAT Games</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183310/images/896415046?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Motowizja">
+    <display-name>Motowizja</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23/images/880295910?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Extreme Channel">
+    <display-name>Extreme Channel</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/1/images/1025055478?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Golf Zone">
+    <display-name>Golf Zone</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30244341/images/1077243381?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="FightBox">
+    <display-name>FightBox</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23940453/images/1025055433?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eleven Sports 1">
+    <display-name>Eleven Sports 1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/1312486/images/292842235?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eleven Sports 2">
+    <display-name>Eleven Sports 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/1312488/images/284054650?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eleven Sports 3">
+    <display-name>Eleven Sports 3</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/1312487/images/284054652?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eleven Sports 4">
+    <display-name>Eleven Sports 4</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/2409430/images/284054570?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Sport HD">
+    <display-name>CANAL+ Sport HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171257/images/838982878?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Sport 2 HD">
+    <display-name>CANAL+ Sport 2 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171256/images/838982880?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Sport 3 HD">
+    <display-name>CANAL+ Sport 3 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171255/images/838982882?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ Sport 4 HD">
+    <display-name>CANAL+ Sport 4 HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171254/images/838982884?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CANAL+ NOW">
+    <display-name>CANAL+ NOW</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/14171263/images/838982866?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Premium 1">
+    <display-name>Polsat Sport Premium 1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643345/images/862701354?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Premium 2">
+    <display-name>Polsat Sport Premium 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643346/images/862701352?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Extra 1">
+    <display-name>Polsat Sport Extra 1</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643347/images/1050525828?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Extra 2">
+    <display-name>Polsat Sport Extra 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643348/images/1050525830?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Extra 3">
+    <display-name>Polsat Sport Extra 3</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643349/images/1050525831?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polsat Sport Extra 4">
+    <display-name>Polsat Sport Extra 4</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/16643350/images/1050525832?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="MiniMini+">
+    <display-name>MiniMini+</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13541972/images/833526687?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name>Disney Junior</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/4231072/images/993674153?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name>Nick Jr.</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/17/images/947111052?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CBeebies">
+    <display-name>CBeebies</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38017/images/1109139686?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name>Cartoonito</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/36016/images/890149601?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Baby TV">
+    <display-name>Baby TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/BB_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0
+"/>
+  </channel>
+  <channel id="Duck TV">
+    <display-name>Duck TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/DUCV_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT JimJam">
+    <display-name>POLSAT JimJam</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/jim_jam.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name>Cartoon Network</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/36018/images/901874343?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name>Nickelodeon</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/18/images/913218416?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="NickToons">
+    <display-name>NickToons</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/19/images/993677666?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name>Disney Channel</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/4231071/images/864544521?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Disney XD">
+    <display-name>Disney XD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/4231073/images/178633972?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="teleTOON+">
+    <display-name>teleTOON+</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/13538938/images/833526689?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Da Vinci">
+    <display-name>Da Vinci</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/32/images/883409542?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TOP KIDS">
+    <display-name>TOP KIDS</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30253779/images/1151812240?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="ALFA TVP">
+    <display-name>ALFA TVP</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/21232716/images/904872261?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Junior Channel">
+    <display-name>Junior Channel</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39368558/images/1079195294?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="4FUN Kids">
+    <display-name>4FUN Kids</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3452690/images/350594749?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="JUNIOR MUSIC HD">
+    <display-name>JUNIOR MUSIC HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984844/images/843501127?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eska TV">
+    <display-name>Eska TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20286605/images/895748526?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eska TV Extra">
+    <display-name>Eska TV Extra</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20286606/images/895749944?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="POLSAT Music">
+    <display-name>POLSAT Music</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183311/images/928372075?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="4FUN Dance">
+    <display-name>4FUN Dance</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/5511367/images/350594750?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="4FUN TV">
+    <display-name>4FUN TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/3452692/images/350594752?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Music Box Polska">
+    <display-name>Music Box Polska</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20027192/images/1025055484?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Clubbing">
+    <display-name>Clubbing</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/31/images/1029135645?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Mixtape TV">
+    <display-name>Mixtape TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984839/images/920484191?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Power TV HD">
+    <display-name>Power TV HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984845/images/1025055415?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nuta. TV HD">
+    <display-name>Nuta. TV HD</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984846/images/819430257?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Eska Rock TV">
+    <display-name>Eska Rock TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20286584/images/920574742?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Kino Polska Muzyka">
+    <display-name>Kino Polska Muzyka</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/KPM_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Stars.TV">
+    <display-name>Stars.TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/26/images/1025055412?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Szlagier TV">
+    <display-name>Szlagier TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/39367655/images/1079195284?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Nuta Gold">
+    <display-name>Nuta Gold</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20347596/images/896414987?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Disco Polo Music">
+    <display-name>Disco Polo Music</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20288607/images/896414989?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Polo TV">
+    <display-name>Polo TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20287933/images/895775612?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="VOX Music TV">
+    <display-name>VOX Music TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/20183325/images/896414991?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Mezzo">
+    <display-name>Mezzo</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30249257/images/1025055421?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Mezzo Live">
+    <display-name>Mezzo Live</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30251129/images/1025055418?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Radio Nowy Świat">
+    <display-name>Radio Nowy Świat</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11253494/images/812887498?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Radio 357">
+    <display-name>Radio 357</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/10797634/images/809802420?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Radio Eska">
+    <display-name>Radio Eska</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27934818/images/967906624?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Radio Eska 2">
+    <display-name>Radio Eska 2</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27935224/images/967905782?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Radio EskaROCK">
+    <display-name>Radio EskaROCK</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27935898/images/967904322?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="VOX FM">
+    <display-name>VOX FM</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/27936293/images/967913286?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="RMF FM">
+    <display-name>RMF FM</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30492410/images/990066042?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="RMF Classic">
+    <display-name>RMF Classic</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30492411/images/990066044?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="RMF MAXXX">
+    <display-name>RMF MAXXX</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30492412/images/990066046?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Chillizet">
+    <display-name>Chillizet</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30492415/images/990066052?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TOK FM">
+    <display-name>TOK FM</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/30492416/images/990066054?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="CNN">
+    <display-name>CNN</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/38021/images/928354620?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC News">
+    <display-name>BBC News</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/136631/images/1029124377?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Deutsche Welle ENG">
+    <display-name>Deutsche Welle ENG</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/11984838/images/896467292?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="WELT">
+    <display-name>WELT</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/24463257/images/934724641?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="France 24">
+    <display-name>France 24</display-name>
+    <icon src="https://r.playcdn.tv/file/play/playtv/upload/live/9233552/images/943083506"/>
+  </channel>
+  <channel id="Current Time">
+    <display-name>Current Time</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/18256846/images/875943189?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Bloomberg Television">
+    <display-name>Bloomberg Television</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/logo/Bloomberg_cl.png?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Euronews">
+    <display-name>Euronews</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/958990/images/1034335121?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Sky News">
+    <display-name>Sky News</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/23340432/images/924358657?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="TVP World">
+    <display-name>TVP World</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/24957638/images/940226066?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name>Arirang TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/34592249/images/1028588518?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="1+1 International">
+    <display-name>1+1 International</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41262232/images/1103606423?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Kvartal TV">
+    <display-name>Kvartal TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41262445/images/1103606430?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Film UA Drama">
+    <display-name>Film UA Drama</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41262690/images/1103606432?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Dacha TV">
+    <display-name>Dacha TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41263041/images/1103606424?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Kus Kus">
+    <display-name>Kus Kus</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41263596/images/1103606425?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="36,6 TV">
+    <display-name>36,6 TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41267157/images/1103606426?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Star Cinema">
+    <display-name>Star Cinema</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41267160/images/1103606427?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Star Family">
+    <display-name>Star Family</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41267311/images/1103606433?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Freedom">
+    <display-name>Freedom</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/42945018/images/1127271797?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="Rybalka TV">
+    <display-name>Rybalka TV</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/41267713/images/1103606429?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="DIM">
+    <display-name>DIM</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/42945016/images/1127271800?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="BBC Player">
+    <display-name>BBC Player</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/live/19378515/images/1142002290?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+  <channel id="National Geographic Play">
+    <display-name>National Geographic Play</display-name>
+    <icon src="https://r.playcdn.tv/scale/play/playtv/upload/packet/4682418/images/259965422?srcmode=3&amp;srcx=0&amp;srcy=0&amp;srcw=1&amp;srch=1&amp;dstw=512&amp;dsth=512&amp;type=0"/>
+  </channel>
+</tv>

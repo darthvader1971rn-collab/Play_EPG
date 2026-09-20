@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add epg.xml
+          git add releases/epg.xml
           # Sprawdź, czy są zmiany do zacommitowania
           git diff --quiet && git diff --staged --quiet || git commit -m "Aktualizacja EPG (-7/+7 dni)"
           git push

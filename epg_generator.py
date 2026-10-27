@@ -426,7 +426,7 @@ MAPOWANIE = {
 def format_xmltv_time(iso_time_str):
     try:
         dt = datetime.datetime.strptime(iso_time_str, '%Y-%m-%d %H:%M:%S')
-        return dt.strftime('%Y%m%d%H%M%S +0200')
+        return dt.strftime('%Y%m%d%H%M%S +0100')
     except Exception:
         return ""
 
@@ -455,8 +455,8 @@ def process_channel(ch, now, headers, api_base, mapowanie):
 
     for day_offset in range(-7, 8):
         target_date = now + datetime.timedelta(days=day_offset)
-        start_of_day = target_date.replace(hour=0, minute=0, second=0).strftime('%Y-%m-%dT%H:%M+0200')
-        end_of_day = target_date.replace(hour=23, minute=59, second=59).strftime('%Y-%m-%dT%H:%M+0200')
+        start_of_day = target_date.replace(hour=0, minute=0, second=0).strftime('%Y-%m-%dT%H:%M+0100')
+        end_of_day = target_date.replace(hour=23, minute=59, second=59).strftime('%Y-%m-%dT%H:%M+0100')
         
         params_epg = {
             'liveId[]': ch_id,
